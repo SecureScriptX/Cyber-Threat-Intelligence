@@ -1,0 +1,31 @@
+
+# CTI Lifecycle
+
+## Planning and Direction
+
+The planning and directing phase serve as the foundational structure for seamless functionality. Planning involves answering crucial questions such as the expectations from intelligence, the intended consumers of the intelligence, and the teams or individuals taking action based on obtained intelligence. Intelligence may be used by executives, analysts, or directly fed to SOC teams. It's essential to articulate specific requirements, clarifying the scope of intelligence. Key questions to consider include:
+
+- Does your organization have a SOC team?
+  - Determine the technical depth of intelligence based on the existence of a SOC team.
+- Has your organization been attacked before, and what was the success rate?
+  - Assess the frequency of intelligence usage based on past attack success rates.
+- Do attacks target the organization or individuals?
+  - Consider External Attack Surface Management for organizational threat surfaces and Digital Risk Protection for individual targets.
+- Are other companies in your industry exposed to similar attacks?
+  - Emphasize industry-based intelligence to share insights and indicators of compromise.
+
+## Information Gathering
+
+This stage involves determining data collection sources, both internal and external. Sources include hacker forums, dark web forums, public research reports, GitHub, public buckets, SIEM, IDS/IPS, and more.
+
+## Processing
+
+Data obtained goes through processing, acting as a filter to eliminate false positives, applying rule sets, and conducting correlations to obtain refined information.
+
+## Analysis and Production
+
+Interpretation and analysis occur at this stage, resulting in consumable intelligence. Appropriate reports are prepared based on the intended consumers of the intelligence.
+
+## Dissemination and Feedback
+
+Disseminating intelligence to the intended recipients is crucial. Feedback loops are established to enhance the intelligence's effectiveness. Continuous improvement is vital to address any false positives and refine the intelligence based on real-world scenarios.
