@@ -18,6 +18,22 @@ The planning and directing phase serve as the foundational structure for seamles
 
 This stage involves determining data collection sources, both internal and external. Sources include hacker forums, dark web forums, public research reports, GitHub, public buckets, SIEM, IDS/IPS, and more.
 
+- Hacker Forums
+- Ransomware Blogs
+- Deep/Dark Web Forums and Bot Markets
+- Public Sandboxes
+- Telegram/ICQ/IRC/Discord/Twitter/Instagram/Facebook/LinkedIn
+- Surface Web(Cybersecurity Blogs etc.)
+- Public Research Reports
+- File Download Sites
+- Github/Gitlab/Bitbucket etc.
+- Public Buckets (Amazon S3/Azure Blob etc.)
+- Shodan/Binary Edge/Zoomeye vb.
+- Sources that provide IOC (Alienvault, Abuse.ch, MalwareBazaar vb.)
+- Honeypots
+- SIEM, IDS/IPS, Firewalls
+- Public Leak Databases
+
 ## Processing
 
 Data obtained goes through processing, acting as a filter to eliminate false positives, applying rule sets, and conducting correlations to obtain refined information.
