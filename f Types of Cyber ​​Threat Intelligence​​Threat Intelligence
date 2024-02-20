@@ -1,0 +1,20 @@
+
+# Types of Cyber Threat Intelligence
+
+Cyber threat intelligence varies based on the recipient's position within the organization. Distinct types of intelligence cater to the specific needs of technical staff and managerial roles, ensuring relevance and effectiveness for the end consumer.
+
+## Technical Cyber Threat Intelligence
+
+Technical CTI is the result of in-depth technical analysis focused on Indicators of Compromise (IOCs). This intelligence involves creating rulesets to safeguard the organization against attacks. It provides reports containing hashes of malicious IP addresses, phishing domains, and malicious files. Typically utilized by technical personnel, such as SOC Analysts and Incident Responders.
+
+## Tactical Cyber Threat Intelligence
+
+Tactical CTI aims to comprehend the Technical, Tactical, and Procedure (TTP) aspects of attackers. Answering questions about an attacker's preferred vulnerabilities, operating countries, motivations, and methods, this intelligence assists in proactive defense measures. Primarily designed for management personnel, including SOC Managers, leading technical teams.
+
+## Operational Cyber Threat Intelligence
+
+Operational CTI, although sharing similarities with Tactical CTI, primarily focuses on Threat Hunting. Unlike the automated nature of tactical CTI, operational CTI involves more targeted investigations into specific types of attacks or individual attackers. Suited for use by Security Managers or personnel involved in Threat Hunting within the organization.
+
+## Strategic Cyber Threat Intelligence
+
+Strategic CTI is tailored for top executives within the organization. Geared towards long-term tasks such as product purchasing, budgeting, and strategic planning, it leverages insights from tactical CTI outputs to shape the organization's future.
